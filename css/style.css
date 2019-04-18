@@ -1,0 +1,11 @@
+	/* write your CSS code here */
+	#form p{
+   		margin: 5px;
+		font-weight: 600;
+	}
+	#form input[type=number]{
+		max-width: 100px;
+	}
+	#form input[type=radio]{
+		margin: 4px;
+	}
